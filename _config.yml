@@ -28,9 +28,9 @@ author:
   pronouns         : "she/her"  
   bio              : "Data Scientist"
   location         : "Cork, Ireland"
-  employer         : "University of Limerick"
+  #employer         : "University of Limerick"
   uri              : # URL
-  #email            : # 
+  email            : "abdulhusseinzm@gmail.com" 
 
   # Academic websites
   academia         : # URL
